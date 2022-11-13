@@ -1,5 +1,8 @@
 # Dell Hack-2-Hire Team 7
 
+# Team Members: 
+## Adi Sharma, Divyadrishti Chhetri, Rajsekhor Saikia, Piyush Singh, Abhishek Kumar Jha
+
 ### Problem statement : Image Annotation
 
 We had to build a model that could analyse an image and detect objects present in the
