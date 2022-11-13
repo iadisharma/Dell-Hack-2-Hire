@@ -1,13 +1,13 @@
 # Dell Hack-2-Hire Team 7
 
-###Problem statement : Image Annotation
+### Problem statement : Image Annotation
 
 We had to build a model that could analyse an image and detect objects present in the
 image and convert it into a human readable form.
 This is part of a bigger project that aims to help visually impaired people appreciate and
 understand the beauty of images.
 
-###Solution strategy
+### Solution strategy
 Our approach to the problem was through understanding how the data in a image is
 process. Since, we were performing image annotation, we decided to go with the
 Convolutional Neural Network. The CNN model is capable of identifying and extracting
